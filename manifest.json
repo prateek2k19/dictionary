@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "/Basic-PWA/",
+  "start_url": "/dictionary/",
   "icons": [
     {
       "src": "icons/revised-google-logo.gif",
